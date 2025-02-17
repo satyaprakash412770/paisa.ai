@@ -92,7 +92,7 @@ export const testimonialsData = [
     role: "Small Business Owner",
     image: "https://randomuser.me/api/portraits/women/75.jpg",
     quote:
-      "Welth has transformed how I manage my business finances. The AI insights have helped me identify cost-saving opportunities I never knew existed.",
+      "Paisa has transformed how I manage my business finances. The AI insights have helped me identify cost-saving opportunities I never knew existed.",
   },
   {
     name: "sahil Ravan",
@@ -103,9 +103,9 @@ export const testimonialsData = [
   },
   {
     name: "Tanmay kule",
-    role: "Financial Advisor",
+    role: "Freelancer",
     image: "https://randomuser.me/api/portraits/women/74.jpg",
     quote:
-      "I recommend Welth to all my clients. The multi-currency support and detailed analytics make it perfect for international investors.",
+      "I recommend Paisa to my friends and family ",
   },
 ];
